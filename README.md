@@ -1,4 +1,4 @@
-# User Course Registeration Form Using React Hooks approach
+# User Course Registeration Form Using React Hooks Approach
 
 ## Demo
 https://react-hooks-course-reg-form.herokuapp.com/
